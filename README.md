@@ -25,7 +25,6 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-visual-studio-code-2019.svg" />
 <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-pycharm.svg" />
-<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-ubuntu-96.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-python.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,9 +36,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" />
 <img align="left" alt="GitKraken" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-gitkraken.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/jupyter_logo_icon_169452.svg" />
 <img align="left" alt="Command Prompt" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-command-line-96.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Dakirby309-Simply-Styled-OS-Linux.ico" />
 <img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
+<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-ubuntu-96.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Dakirby309-Simply-Styled-OS-Linux.ico" />
 <br />
 <br />
 
