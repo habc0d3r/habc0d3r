@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="habcoder.code.blog" width="22px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Programming-amico.svg" />][website]
+[<img align="left" alt="habcoder.code.blog" width="22px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-globe.gif" />][website]
 [<img align="left" alt="Hengul Akash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hengul Akash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hengul Akash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
