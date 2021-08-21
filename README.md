@@ -1,4 +1,4 @@
-### Hello World! I'm Hengul Akash {habc0d3r} 👋
+### Hello World! I'm Hengul Akash {[habc0d3r]} 🙏🏼
 
 [![Website](https://img.shields.io/website?label=habcoder.code.blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://habcoder.code.blog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hengulakash?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/habc0d3r&screen_name=hengulakash)
@@ -43,7 +43,7 @@
 <br />
 
 ---
-
+[habc0d3r]: https://GitHub.com/habc0d3r
 [website]: https://habcoder.code.blog
 [twitter]: https://twitter.com/hengulakash
 [youtube]: https://youtube.com/ColdCoffeeMusic
