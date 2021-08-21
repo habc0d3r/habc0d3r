@@ -5,7 +5,7 @@
 
 ## I'm a Coder, Budding Data Analyst and a Student exploring tech field...!!!
 
-- 🧑🏻‍💻 Currently challenging myself with [#100DaysOfCode] challenge!
+- 🧑🏻‍💻 Currently challenging myself with #100DaysOfCode challenge!
 - 🌱 I’m currently learning everything...
 - 🔭 I’m looking for a mentor to guide me...
 - 🎯 2021 Goals: Get better at Python and build more projects...
@@ -49,4 +49,3 @@
 [youtube]: https://youtube.com/ColdCoffeeMusic
 [linkedin]: https://linkedin.com/in/hengul-akash-boruah
 [instagram]: https://instagram.com/hengulakash
-[#100DaysOfCode]: https://twitter.com/#100DaysOfCode
