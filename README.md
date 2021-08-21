@@ -14,9 +14,9 @@
 ### Connect with me:
 
 [<img align="left" alt="habcoder.code.blog" width="22px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-globe-96%20(1).png" />][website]
-[<img align="left" alt="Hengul Akash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hengul Akash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hengul Akash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hengul Akash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Account Deleted! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -37,10 +37,10 @@
 <img align="left" alt="GitKraken" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-gitkraken.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/jupyter_logo_icon_169452.svg" />
-<img align="left" alt="Command Prompt" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-command-line-96.png" />
 <img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-ubuntu-96.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Dakirby309-Simply-Styled-OS-Linux.ico" />
+<img align="left" alt="Command Prompt" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-command-line-96.png" />
 <br />
 <br />
 
