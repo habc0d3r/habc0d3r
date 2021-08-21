@@ -34,8 +34,8 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mysql-96.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mongodb.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Command Prompt" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-command-line-96.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Dakirby309-Simply-Styled-OS-Linux.ico" />
