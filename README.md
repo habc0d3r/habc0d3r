@@ -1,6 +1,5 @@
 ### Hello, World! I'm Hengul Akash ([habc0d3r]) 🙏🏼
 
-[![Website](https://img.shields.io/website?label=habcoder.code.blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://habcoder.code.blog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hengulakash?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/habc0d3r&screen_name=hengulakash)
 
 
@@ -14,7 +13,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="habcoder.code.blog" width="22px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-globe-96%20(1).png" />][website]
 [<img align="left" alt="Hengul Akash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Hengul Akash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Hengul Akash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -47,7 +45,6 @@
 
 ---
 [habc0d3r]: https://GitHub.com/habc0d3r
-[website]: https://habcoder.code.blog
 [twitter]: https://twitter.com/hengulakash
 [youtube]: https://youtube.com/ColdCoffeeMusic
 [linkedin]: https://linkedin.com/in/hengul-akash-boruah
