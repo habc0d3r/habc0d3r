@@ -25,7 +25,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-visual-studio-code-2019.svg" />
 <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-pycharm.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-python.svg" />
-<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/Go-Logo_Blue.svg" />
+<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/gopher.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
