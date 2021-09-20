@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hengulakash?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/habc0d3r&screen_name=hengulakash)
 
 
-## I'm a Coder, Budding Data Analyst and a Student exploring everything...!
+## I'm a Coder and a Student exploring everything...!
 
 - 🧑🏻‍💻 Currently challenging myself with #100DaysOfCode challenge!
 - 🌱 I’m currently learning everything...
@@ -25,12 +25,10 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-visual-studio-code-2019.svg" />
 <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-pycharm.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-python.svg" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/gopher.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mysql-96.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mongodb.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" />
 <img align="left" alt="GitKraken" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-gitkraken.svg" />
@@ -38,8 +36,12 @@
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/jupyter_logo_icon_169452.svg" />
 <img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-ubuntu-96.png" />
+<img align="left" alt="Fedora" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/Fedora_icon_(2021).svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Dakirby309-Simply-Styled-OS-Linux.ico" />
 <img align="left" alt="Command Prompt" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-command-line-96.png" />
+<!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> -->
+<!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mysql-96.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mongodb.svg" /> -->
 <br />
 <br />
 
