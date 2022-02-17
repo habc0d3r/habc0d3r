@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hengulakash?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/habc0d3r&screen_name=hengulakash)
 
 
-## I'm a Coder and a Student exploring everything...!
+## I'm a Coder and a Learner, exploring everything...!
 
 - 🧑🏻‍💻 Currently challenging myself with #100DaysOfCode challenge!
 - 🌱 I’m currently learning everything...
