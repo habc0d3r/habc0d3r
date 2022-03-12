@@ -26,7 +26,6 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/cpp-logo.ico" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-python.svg" />
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/Gopher.svg" />
-<img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/Go-Logo_Blue.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-visual-studio-code-2019.svg" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Icon-Vim.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-git.svg" />
