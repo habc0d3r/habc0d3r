@@ -33,11 +33,11 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-ubuntu-96.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <!-- <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Dakirby309-Simply-Styled-OS-Linux.ico" /> -->
-<!-- <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-pycharm.svg" /> -->
+<img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-pycharm.svg" />
 <!-- <img align="left" alt="Command Prompt" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-command-line-96.png" /> -->
 <!-- <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/jupyter_logo_icon_169452.svg" /> -->
 <!-- <img align="left" alt="Fedora" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/Fedora_icon_(2021).svg" /> -->
-<!-- <img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" /> -->
+<img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
 <!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> -->
 <!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mysql-96.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mongodb.svg" /> -->
