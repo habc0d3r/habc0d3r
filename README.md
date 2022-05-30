@@ -11,33 +11,33 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hengul Akash | Twitter" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/twitter.png" />][twitter]
 [<img align="left" alt="Hengul Akash | LinkedIn" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/linkedin.png" />][linkedin]
+[<img align="left" alt="Hengul Akash | Twitter" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/twitter.png" />][twitter]
 <!-- [<img align="left" alt="Hengul Akash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 <br />
 
 ### Languages & Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<!-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> -->
-<!-- <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/cpp-logo.ico" /> -->
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-python.svg" />
+<img align="left" alt="HTML5" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<!-- <img align="left" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> -->
+<!-- <img align="left" alt="C++" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/cpp-logo.ico" /> -->
+<img align="left" alt="Python" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-python.svg" />
 <!-- <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/Gopher.svg" /> -->
-<img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-pycharm.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-visual-studio-code-2019.svg" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/jupyter_logo_icon_169452.svg" />
-<img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Icon-Vim.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" />
-<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-ubuntu-96.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<!-- <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Dakirby309-Simply-Styled-OS-Linux.ico" /> -->
-<!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> -->
-<!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mysql-96.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mongodb.svg" /> -->
+<img align="left" alt="PyCharm" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-pycharm.svg" />
+<img align="left" alt="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-visual-studio-code-2019.svg" />
+<img align="left" alt="Jupyter Notebook" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/jupyter_logo_icon_169452.svg" />
+<img align="left" alt="Anaconda" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
+<img align="left" alt="Vim" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Icon-Vim.svg" />
+<img align="left" alt="Git" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-git.svg" />
+<img align="left" alt="GitHub" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" />
+<img align="left" alt="Ubuntu" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-ubuntu-96.png" />
+<img align="left" alt="Terminal" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<!-- <img align="left" alt="Linux" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/Dakirby309-Simply-Styled-OS-Linux.ico" /> -->
+<!-- <img align="left" alt="SQL" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> -->
+<!-- <img align="left" alt="MySQL" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mysql-96.png" />
+<img align="left" alt="MongoDB" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-mongodb.svg" /> -->
 <br />
 <br />
 
