@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hengul Akash | Twitter" width="22px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/twitter.png" />][twitter]
-[<img align="left" alt="Hengul Akash | LinkedIn" width="22px" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/linkedin.png" />][linkedin]
+[<img align="left" alt="Hengul Akash | Twitter" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/twitter.png" />][twitter]
+[<img align="left" alt="Hengul Akash | LinkedIn" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/linkedin.png" />][linkedin]
 <!-- [<img align="left" alt="Hengul Akash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 <br />
