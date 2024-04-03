@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 ### I am Hengul
 #### 🌱 I’m currently learning UI/UX
 #### I'm interested in Data Analytics and AI too.
