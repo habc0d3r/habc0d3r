@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Hengul
 #### 🌱 I’m currently learning UI/UX
-#### I'am interested in Data Analytics and AI too.
+#### I'm interested in Data Analytics and AI too.
 
 <!--
 **habc0d3r/habc0d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
